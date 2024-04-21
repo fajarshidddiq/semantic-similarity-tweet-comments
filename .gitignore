@@ -1,4 +1,3 @@
 credentials.txt
-replies.csv
-tweet.csv
 accounts.db
+storage/*
